@@ -46,5 +46,5 @@
     "webpack-merge": "^5.7.3",
     "optimize-css-assets-webpack-plugin": "^5.0.4"
   },
-  "description": ""
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/7ft305fna6ibdxef?svg=true)](https://ci.appveyor.com/project/OlgaMartinikhina/1forms)"
 }
